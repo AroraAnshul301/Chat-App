@@ -6,7 +6,7 @@ A full-stack real-time chat application built with the **MERN stack** and **Sock
 
 - 🔒 User Authentication (JWT-based)
 - 💬 Real-time messaging with Socket.io
-- 🧑‍🤝‍🧑 Group & Private Chats
+- 🧑‍🤝‍🧑 Private Chats
 - 📄 Message history and latest messages
 - 🌐 RESTful API with Express.js
 - 🎨 Responsive UI using React
@@ -26,10 +26,7 @@ A full-stack real-time chat application built with the **MERN stack** and **Sock
 ![Chat App Screenshot](screenshot_light.png)
 ![Chat App Screenshot](screenshot.png)
 
-## 📁 Folder Structure
 
-
----
 
 ## 🧪 How to Run Locally
 ### 📦 Prerequisites
