@@ -13,7 +13,7 @@ A full-stack real-time chat application built with the **MERN stack** and **Sock
 
 ## 🛠️ Tech Stack
 
-**Frontend**: React, Axios, Context API, Tailwind CSS  
+**Frontend**: React, Axios, Vite, Tailwind CSS  
 **Backend**: Node.js, Express.js, MongoDB, Mongoose, Socket.io  
 **Auth**: JWT, bcrypt  
 **Others**: Postman (API testing), Git, GitHub
@@ -23,7 +23,32 @@ A full-stack real-time chat application built with the **MERN stack** and **Sock
 [Demo](https://chat-app-ivhk.onrender.com/)
 
 
-![Chat App Screenshot](screenshot.png) <!-- Optional: Add your own image -->
+![Chat App Screenshot](screenshot_light.png)
+![Chat App Screenshot](screenshot.png)
 
 ## 📁 Folder Structure
+
+
+---
+
+## 🧪 How to Run Locally
+### 📦 Prerequisites
+- Node.js
+- MongoDB (local or MongoDB Atlas)
+
+### 🔧Backend Setup
+
+```bash
+cd backend
+npm install
+# Create a .env file and add your Mongo URI and JWT secret
+npm run dev
+```
+
+### 🔧Frontend Setup
+```bash
+cd frontend
+npm install
+npm run dev
+
 
