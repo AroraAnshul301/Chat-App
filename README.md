@@ -20,7 +20,7 @@ A full-stack real-time chat application built with the **MERN stack** and **Sock
 
 ## 📷 Demo
 
-[Demo](https://chat-app-ivhk.onrender.com/)
+### [Demo Link](https://chat-app-ivhk.onrender.com/)
 
 
 ![Chat App Screenshot](screenshot_light.png)
